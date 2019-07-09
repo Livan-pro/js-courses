@@ -1,7 +1,7 @@
 export function sum(a, b) {
-  // TODO: write function to pass tests
+  return a + b;
 }
 
 export function powerWithClosure(exponent) {
-  // TODO: write function to pass tests
+  return x => Math.pow(x, exponent);
 }
